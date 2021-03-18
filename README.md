@@ -6,12 +6,11 @@ the background from the Pure Black by Sahil Soni used as a background and the Sp
 
 ## Installation
 
-1) Open the Extensions Menu (Ctrl+Shift+X)
-2) Search for 'Spaceblack'
-3) Click install to install the theme.
-4) If the theme is not applied, Press Ctrl+Shift+P and type 'Preferences: Colour Theme and hit enter'
-5) Look for Spaceblack under the Dark section
-6) Press ENTER on it to apply the themes
+1) Download this repository and put it in a new folder
+2) Put that folder in the Visual Studio Code Extensions folder. For Windows that would be **%USERPROFILE%\.vscode\extensions**
+3) Restart Visual Studio Code if opened, otherwise just launch it
+4) Press CTRL+SHIFT+P and type 'Preferences: Colour Theme' and press ENTER
+5) Look for Spacedark and apply the theme
 
 *Done!*
 
