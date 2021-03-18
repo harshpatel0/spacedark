@@ -2,7 +2,7 @@
 ### The Dark Vastness of Space awaits...
 
 This is a black coloured theme for Visual Studio Code that brings 2 themes to one,
-the background from the Pure Black by Sahil Soni used as a background and the Spaceland Theme by LukeDavies12 used as the colour scheme
+the Pure Black theme by Sahil Soni used as a background and the Spaceland Theme by LukeDavies12 used as the colour scheme
 
 ## Installation
 
